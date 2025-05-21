@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, Marco Cruz here 👋
 
-<!--
-**marco-cruz-07/marco-cruz-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
+ - 💻 I'm currently working on: Data Business/ BI/ Operations Analysts
+ - 😄 Pronouns: (He/Him)
+ -  🌱 I’m currently learning: **SQL, Python/Pyspark**  
+    and DataViz **PBI, Tableau e QlikView**  
+    also enthusiast: Excel, AI and new features :) 
 
-Here are some ideas to get you started:
+### 📲 How to reach me:   
+<a href="https://www.linkedin.com/in/marco-c-b6087857/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:marco.cruz@live.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
